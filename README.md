@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mashenko.andr@gmail.com**
 
-- 📄 Know about my experiences [andreymsh.se](andreymsh.se)
+- 📄 Know about my experiences [https://andreymsh.se/](https://andreymsh.se/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
