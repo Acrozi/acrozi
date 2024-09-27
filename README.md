@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrey Mashchenko</h1>
+<h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">DevSecOps backend developer (student atm)</h3>
 
 - 🌱 I’m currently learning **C, C#,Python, JS**
